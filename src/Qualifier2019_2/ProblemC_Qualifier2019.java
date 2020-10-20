@@ -1,3 +1,5 @@
+package Qualifier2019_2;
+
 import java.util.Scanner;
 
 /**
